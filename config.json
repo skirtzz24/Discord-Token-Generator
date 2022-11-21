@@ -1,0 +1,8 @@
+{
+    "use_ai_solver": true,
+    "mailverified": true,
+    "fullyverified": false,
+    "unverified": false,
+    "memberboost": false,
+    "invite_code": "leave blank if you want to create mailverified"
+}
